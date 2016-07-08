@@ -1,0 +1,30 @@
+First Name,Surname,Level,Department,Sex
+Robert,Treharne,Staff,SIRE,M
+Laurie,Phillips,PD,SIRE,M
+Ksenia,Dvurecenska,Staff,Computing Services,F
+Osma,Maklad,PG,Mechanical Engineering,M
+Robert,Poole-McKenzie,?,?,M
+Will,Clifton,?,?,M
+James,Graham,?,?,M
+Marianne,Scott,UG,Mathematics,F
+Linus,Dea,?,?,M
+Adam,Ruby,Staff,Vine Court,M
+Bethan,Williams,PG,Physics,F
+Simon,Pfeifer,UG,Physics,M
+Petar,Radjenovic,PG,SIRE,M
+Sarah,De Vos,UG,Physics,F
+Liz,Cocklin,PG,SIRE,F
+Harvey,Birch,UG,?,M
+Alejandro,Diaz,PG,RISK,M
+Lenka,Pollachova,PG,Physics,F
+Yifan,Hu,?,?,M
+Iain,Aldous,PG,SIRE,M
+Luke,Anderson,PG,?,M
+Jamie,Roberts,?,?,M
+Gredley,Alexander,PG,Physics,M
+Marco,De Angelis,Staff,RISK,M
+Sam,Cassidy,?,?,F
+Sam,Chong,PD,Chemistry,F
+Lorena,Olivera,PG,SIRE,F
+Shauna,Nic A Bhaird,PG,Physics,F
+Sarah,?,?,?,F
