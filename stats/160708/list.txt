@@ -8,7 +8,7 @@ Will,Clifton,?,?,M
 James,Graham,?,?,M
 Marianne,Scott,UG,Mathematics,F
 Linus,Dea,?,?,M
-Adam,Ruby,Staff,Vine Court,M
+Adam,Ruby,Staff,?,M
 Bethan,Williams,PG,Physics,F
 Simon,Pfeifer,UG,Physics,M
 Petar,Radjenovic,PG,SIRE,M
@@ -28,3 +28,15 @@ Sam,Chong,PD,Chemistry,F
 Lorena,Olivera,PG,SIRE,F
 Shauna,Nic A Bhaird,PG,Physics,F
 Sarah,?,?,?,F
+Joe,Zhou,UG,Mathematics,M
+Fiona,McBride,PD,Surface Science,F
+Inco,Planje,PG,Chemistry,M
+Benjamin,Slater,PG,Chemistry,M
+Nina,Tianyuan,PG,Mathematics,F
+Simon,Wang,PG,Mathematics,M
+Anna,Slater,PG,Chemistry,F
+Ellis,Rintoul,PG,Physics,M
+Rebecca,Docherty,PD,Chemistry,F
+Jack,Swallow,PG,SIRE,M
+Sam,Povall,?,?,M
+Fillip,Hovarth,?,?,M
